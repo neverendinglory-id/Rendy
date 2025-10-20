@@ -1,0 +1,5 @@
+{
+  "name": "MR Profit Lite",
+  "description": "An AI-powered app that scans Binance Futures USDT pairs to analyze volatility, BTC impact, and whale activity. It provides top coin recommendations with Take Profit, Stop Loss, and grid strategies, aiming for a 10% target cycle profit, all within free Gemini API limits.",
+  "requestFramePermissions": []
+}
